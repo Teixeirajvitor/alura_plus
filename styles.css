@@ -92,10 +92,6 @@ body {
     margin-top: 1em;
 }
 
-.container__descricao {
-    padding-right: 3em;
-}
-
 .dispositivos__lista {
     display: flex;
     justify-content: center;
